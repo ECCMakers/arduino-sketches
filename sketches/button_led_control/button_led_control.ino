@@ -11,6 +11,6 @@ void setup() {
 }
 
 void loop() {
-  bool buttonState = digitalRead(12); // store current state of pin 12
+  bool buttonState = digitalRead(button); // store current state of pin 12
   digitalWrite(led, !buttonState);
 }
