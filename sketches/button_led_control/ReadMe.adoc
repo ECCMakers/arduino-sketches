@@ -3,7 +3,7 @@
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Project: button led control
 
 Describe your project
 
